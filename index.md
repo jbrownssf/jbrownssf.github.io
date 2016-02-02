@@ -5,7 +5,7 @@ title: John Doe's CV
 
 ![Harold](./media/21.png){:.avatar}
 
-#John Doe
+# John Doe
 Computer Science Student and Technology aficionado
 
 <div id="webaddress">
