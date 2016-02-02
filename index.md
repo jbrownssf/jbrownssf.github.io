@@ -44,7 +44,7 @@ __Soft Stack Factory__ Learned how to Programming Hybrid Mobile Apps
 
 ### CV
 `Feb 2016`
-I created a this web page to show off my CV.
+I created a this web page to show off my CV. Click <a href="https://github.com/jbrownssf/jbrownssf.github.io" target="_blank">this</a> to see the Repository.
 
 ### ZIB
 `2015-16`
