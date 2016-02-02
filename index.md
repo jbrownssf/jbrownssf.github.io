@@ -1,64 +1,78 @@
 ---
 layout: cv
-title: John Doe's CV
+title: John Brown's CV
 ---
 
-![Harold](./media/21.png){:.avatar}
+![John](./media/22.JPEG){:.avatar}
 
-# John Doe
-Computer Science Student and Technology aficionado
+# John Brown
+Computer Science Student
+ <!--and Technology aficionado-->
 
 <div id="webaddress">
-<a href="mailto:">mymail@mymail.com</a>
+<a href="mailto:jpbrown@softstackfactory.org">Email</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/">my account</a>
-|
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/">mytwitteraccount</a>
+<i class="fa fa-github"></i> <a href="http://github.com/jbrownssf">My GitHub</a>
+<!--|-->
+<!--<i class="fa fa-twitter"></i> <a href="http://twitter.com/">mytwitteraccount</a>-->
 </div>
 
 
 ## Currently
 
-I'm a final-year computer science student at the University Computers, due to finish around September 2016. During my bachelor's degree I've taken up an interest in mobile technologies and artificial intelligence.
+I'm working with Soft Stack Factory in teaching, and building, hybrid mobile apps using angular.js.
 
 ## Education
 
-`2012-15`
-__University of Computers__ Bachelor's degree in Computer Science
+`2009-13`
+__Steele Canyon High School__ High School Diploma
+<br>
+`2015`
+__Soft Stack Factory__ Learned how to Programming Hybrid Mobile Apps
 
 ## Technical skills
 
 * HTML and CSS
 * Javascript
+* Angular.js
+* MEAN stack
+* Jekyll
+* Php
+* SQL
 
 ## Projects
 
 ### CV
+`Feb 2016`
+I created a this web page to show off my CV.
 
-I created a this web page to show off my CV.  
+### ZIB
+`2015-16`
+I helped create the <a href="https://app.zebitinstantbudget.com" target="_blank">Zebit Instant Budget</a> app.
 
 ## Achievements
-
-Achievement 1
-
-Achievement 2
+`2013`
+Achieved the __Eagle Scout__ rank.
 
 ## Experience
 
-`2010-11`
-__Roasted Bean Coffe House__ 
- Worked for two summers on the Roasted Bean Coffe House as a barista.
+`2015`
+__Sales Associate__ <br>
+I worked for eight months with RadioShack selling electronics and accessories.
 
 ## Hobbies
 
+* Programming
 * Hiking
-* Riding 
-* Cooking
+* Rock Climbing 
+ 
+## References
+Contact me for references.
 
 ## Links
 
-* <i class="fa fa-envelope"></i> <a href="mailto:">mymail@mymail.com</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/">my account</a><br />
-* <i class="fa fa-twitter"></i> <a href="http://twitter.com/">mytwitteraccount</a><br />
-* <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/">SO Account</a>
-* <i class="fa fa-google"></i> <a href="http://scholar.google.com/">scholar</a>
+* <i class="fa fa-envelope"></i> <a href="mailto:jpbrown@softstackfactory.org">jpbrown@softstackfactory.org</a><br />
+* <i class="fa fa-github"></i> <a href="http://github.com/jbrownssf">my account</a><br />
+<!--* <i class="fa fa-twitter"></i> <a href="http://twitter.com/">mytwitteraccount</a><br />-->
+<!--* <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/">SO Account</a>-->
+<!--* <i class="fa fa-google"></i> <a href="http://scholar.google.com/">scholar</a>-->
