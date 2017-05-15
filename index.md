@@ -61,7 +61,7 @@ Sales Representative Management app.
 
 ### Id Sentral
 `2016-17`
-Credit Fraud Awareness Assistant
+Credit Fraud Awareness Assistant.
 
 ### Video Game
 `2017`
@@ -81,7 +81,7 @@ Eight months with RadioShack selling electronics and accessories.
 
 ### Facilitator
 `2016-17`
-Year and a half of teaching at SoftStack Factory
+Year and a half of teaching at SoftStack Factory.
 
 ## Hobbies
 
