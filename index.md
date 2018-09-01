@@ -3,7 +3,7 @@ layout: cv
 title: John P. Brown's CV
 ---
 
-![John](./media/22.JPEG){:.avatar}
+![John](./media/22.JPG){:.avatar}
 
 # John P. Brown
 JavaScript M.E.A.N. Stack Facilitator
@@ -12,7 +12,7 @@ JavaScript M.E.A.N. Stack Facilitator
 <div id="webaddress">
 <i class="fa fa-envelope"></i> <a href="mailto:john.p.brown@outlook.com">Email</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/jbrownssf">My GitHub</a>
+<i class="fa fa-github"></i> <a href="http://github.com/jpbrown250">My GitHub</a>
 <!--|-->
 <!--<i class="fa fa-twitter"></i> <a href="http://twitter.com/">mytwitteraccount</a>-->
 </div>
@@ -23,26 +23,32 @@ JavaScript M.E.A.N. Stack Facilitator
 I'm working with SoftStack Factory in faciliating and building hybrid mobile apps utilizing the M.E.A.N stack.
 
 ## Education
-`2009-13`
-__Steele Canyon High School__ High School Diploma
+`2016-17`
+__SoftStack Factory Facilitator__ Facilitator for the JavaScript M.E.A.N. Stack Courses
 <br>
 `2015`
 __SoftStack Factory Course__ JavaScript M.E.A.N. Stack Spinup & <a target="_blank" href="https://app.zebitinstantbudget.com/">Real World Project</a>
 <br>
-`2016-17`
-__SoftStack Factory Facilitator__ Facilitator for the JavaScript M.E.A.N. Stack Courses
+`2009-13`
+__Steele Canyon High School__ High School Diploma
 
 
 ## Technical skills
-* Amazon Web Services
-* HTML and CSS
+* Scripted Unit Testing
 * JavaScript
-* Angular 1 & 2
-* Node.js
-* C++
+* AngularJS
+* Ionic Framework
+* Agile
+* Amazon Web Services
+* SQL Database
 * MongoDB
-* Express.js
-* SQL
+* NodeJS
+* ExpressJS
+* Git Source Repositories
+* Statistics
+* Microsoft Office
+* Customer Relations
+* Sales
 
 ## Projects
 
